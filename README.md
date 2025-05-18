@@ -61,7 +61,7 @@
     - Project Manager (Tech)  
     - Junior Software Developer  
 
-    - MarTech and e-commerce — I've worked closely with platforms in these industries and have seen how technical solutions drive business outcomes.
+    **What piqued my interest;** MarTech and e-commerce — I've worked closely with platforms in these industries and have seen how technical solutions drive business outcomes.
 
 1. **Alignment with Personal Profile**:
     **How these industries/roles align with my skills, interests, and values.**
